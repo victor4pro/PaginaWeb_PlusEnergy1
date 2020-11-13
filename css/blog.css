@@ -1,0 +1,15 @@
+#blog .contenedor {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#blog article {
+	margin: 5px;
+}
+
+img {
+	width: 50%;
+	height: auto;
+
+}
